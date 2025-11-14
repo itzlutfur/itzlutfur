@@ -2,8 +2,6 @@
 
 ### Aspiring Software Engineer | Backend Development Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzlutfur&label=Profile views&color=0e75b6&style=flat" alt="itzlutfur" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzlutfur" alt="itzlutfur" /></a> </p>
 
 - 🌱 I'm currently learning **Backend Development.**
