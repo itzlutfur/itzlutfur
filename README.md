@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lutfur Rahman Tanvir
 
-### Aspiring Software Engineer | Backend Development Enthusiast
+### Software Engineer | Backend Development Enthusiast
 
 - 🌱 I'm currently learning **Backend Development.**
 
